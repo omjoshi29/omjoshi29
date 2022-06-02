@@ -8,3 +8,19 @@
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omjoshi29&count_private=true&theme=outrun&show_icons=true"  height="190px" />
 </a>
+
+
+<div>
+  <samp>
+    <h2 align="left">You Can Reach Me By:</h2>
+    <p align="left">
+      <br/>
+      <a href="https://www.linkedin.com/in/omkar-joshi-969865168/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="omkar" height="30"/></a>
+      <a href="https://omjoshi2908@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="omkar" height="30"/></a>
+    </p>
+  </samp>
+</div>
