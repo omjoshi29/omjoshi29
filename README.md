@@ -21,6 +21,9 @@
       <a href="https://omjoshi2908@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="omkar" height="30"/></a>
+      <a href="https://omjoshi.netlify.app" target="blank"><img align="center"
+         src="https://img.shields.io/badge/-omjoshi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
+         alt="omkar" height="30"/></a>
     </p>
   </samp>
 </div>
