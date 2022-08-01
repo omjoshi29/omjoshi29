@@ -1,17 +1,23 @@
-<h2> Hi there! I'm Omkar, I'm an Aspiring Full-Stack Web Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> </h2>
+<h2 align="center"> Hi there! I'm Omkar, I'm an Aspiring Full-Stack Web Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> </h2>
 
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="780" />
+<div align="center">
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="550" />
+</div>
 
+<hr/>
+
+<div align="center">
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi29&theme=outrun"  height="190px" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omjoshi29&count_private=true&theme=outrun&show_icons=true"  height="190px" />
 </a>
+</div>
 
-<div>
-<h2 align="left">Skills & Frameworks:</h2>
-  <p align="left">
+<div align="center">
+<h2 align="center">Skills & Frameworks:</h2>
+  <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="omkar"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="omkar"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="omkar"/>
@@ -35,10 +41,10 @@
   </p>
 </div>
 
-<div>
+<div align="center">
   <samp>
-    <h2 align="left">You Can Reach Me By:</h2>
-    <p align="left">
+    <h2 align="center">You Can Reach Me By:</h2>
+    <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/omkar-joshi-969865168/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
