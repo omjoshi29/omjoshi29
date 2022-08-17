@@ -1,6 +1,6 @@
-<h2 align="center"> Hi there! I'm Omkar, I'm an Aspiring Full-Stack Web Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> </h2>
+<h2 align="left"> Hi there! I'm Omkar, I'm an Aspiring Full-Stack Web Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> </h2>
 
-<p align="center">Dedicated and efficient aspiring fullstack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects. Eager to tackle web development challenges to achieve lasting impacts on user experience.
+<p align="justify">Dedicated and efficient aspiring fullstack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects. Eager to tackle web development challenges to achieve lasting impacts on user experience.
 </p>
 
 <!---<div align="center">
@@ -9,7 +9,7 @@
 
 <hr/>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi29&theme=outrun"  height="190px" />
 </a>
@@ -18,9 +18,11 @@
 </a>
 </div>
 
-<div align="center">
-<h2 align="center">Skills & Frameworks:</h2>
-  <p align="center">
+<hr/>
+
+<div align="left">
+<h2 align="left">Skills & Frameworks:</h2>
+  <p align="justify">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="omkar"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="omkar"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="omkar"/>
@@ -44,10 +46,12 @@
   </p>
 </div>
 
-<div align="center">
+<hr/>
+
+<div align="left">
   <samp>
-    <h2 align="center">You Can Reach Me By:</h2>
-    <p align="center">
+    <h2 align="left">You Can Reach Me By:</h2>
+    <p align="left">
       <br/>
       <a href="https://www.linkedin.com/in/omkar-joshi-969865168/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
