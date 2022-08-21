@@ -1,7 +1,7 @@
 <h2 align="left"> Hi there! I'm Omkar, I'm an Aspiring Full-Stack Web Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> </h2>
 
-<h4 align="justify">Dedicated and efficient aspiring fullstack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects. Eager to tackle web development challenges to achieve lasting impacts on user experience.
-</h4>
+<h3 align="justify">Dedicated and efficient aspiring fullstack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects. Eager to tackle web development challenges to achieve lasting impacts on user experience.
+</h3>
 
 <!---<div align="center">
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="550" />
@@ -60,7 +60,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="omkar" height="30"/></a>
       <a href="https://omjoshi.netlify.app" target="blank"><img align="center"
-         src="https://img.shields.io/badge/-omjoshi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
+         src="https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
          alt="omkar" height="30"/></a>
     </p>
   </samp>
